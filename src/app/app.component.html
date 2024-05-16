@@ -1,7 +1,9 @@
 <!-- Este é o componente do formulário -->
+
 <div class="container">
   <!-- Essa "div" foi criada com o intuido de centralizar o formulário -->
   <div class="vertical-center">
+    <h1 class="display-2">Formulário de Cadastro</h1>
     <!-- Este é o formulário. Foi usado o a variável f para direcionar-lo para o controle do angular "ngForm" e através do método onSubmit recebemos os elementos do formulário -->
     <!-- Para associar cada campo de input aos valores do ngForm foram utilizadas as tags name e ngModel -->
     <form #f="ngForm" (ngSubmit)="onSubmit(f)">
