@@ -1,27 +1,26 @@
-# FormEndereco
+# Formulário para cadastro utilizando ViaCep 📝
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
+## Descrição 📚
 
-## Development server
+Este projeto é o desenvolvimento de um formulário em Angular para coletar informações pessoais e de endereço de um usuário. Foi feito em colaboração com [Matheus Ben-Judá](https://github.com/matheusjuda)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Tecnologias Utilizadas 💻
 
-## Code scaffolding
+O projeto foi desenvolvido utilizando o framework Angular 17 e estilização através da biblioteca de estilização Bootstrap.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Utilização ⚙️
 
-## Build
+Para que você utliizar este projeto localmente:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+1. Certifique-se de ter o Node.js e o npm instalados em sua máquina. 💡Dica use o comando: `node --version`
+2. Instale o Angular CLI globalmente usando o comando `npm install -g @angular/cli`.
+3. Clone este repositório para a sua máquina local usando `git clone https://github.com/ArthDias/form-endereco.git`.
+4. Navegue até a pasta do projeto e instale as dependências com `npm install`.
+5. Inicie o servidor de desenvolvimento com `ng serve`.
+6. Navegue até `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
 
-## Running unit tests
+## Link 🔗
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Você pode acessar o projeto no seguinte link: [Formulário para cadastro utilizando ViaCep](https://form-endereco.vercel.app/)
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+---
