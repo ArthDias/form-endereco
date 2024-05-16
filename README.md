@@ -21,4 +21,4 @@ Para que você utliizar este projeto localmente:
 
 ## Link 🔗
 
-Você pode acessar o projeto no seguinte link: [Formulário para cadastro utilizando ViaCep](https://form-endereco.vercel.app/)
+Você pode acessar o projeto no seguinte link: [Formulário para cadastro utilizando ViaCep](https://form-endereco.vercel.app/).
