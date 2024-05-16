@@ -2,7 +2,7 @@
 
 ## Descrição 📚
 
-Este projeto é o desenvolvimento de um formulário em Angular para coletar informações pessoais e de endereço de um usuário. Foi feito em colaboração com [Matheus Ben-Judá](https://github.com/matheusjuda)
+Este projeto é o desenvolvimento de um formulário em Angular para coletar informações pessoais e de endereço de um usuário. Foi feito em colaboração com [Matheus Ben-Judá](https://github.com/matheusjuda).
 
 ## Tecnologias Utilizadas 💻
 
